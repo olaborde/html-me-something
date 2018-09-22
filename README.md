@@ -8,5 +8,5 @@ There are two parts to this exercise, one focused on HTML and another focused on
 
 Best practices dictate that these should be kept as separate as possible. To that end, we'll build the HTML portion of our page first, and only afterwards will we add a few styles with CSS. This will help us avoid adding HTML elements simply to change the style of our page.
 
-published at https://olaborde.github.io/html-me-something/
+published at: https://olaborde.github.io/html-me-something/
 
