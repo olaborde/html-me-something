@@ -3,7 +3,7 @@ body {
     width: 100%;
     max-width: 1024px;
     margin: 0 auto;
-    background-color: #999;
+    background-color: #b2e3ee;
     font-size: 95%;
 }
 img {
@@ -13,6 +13,7 @@ img {
 
 h1 {
     text-align: center;
+    color: #2795f9
 }
 a {
     text-decoration:none
@@ -36,12 +37,11 @@ a {
 /* Navbar */
 
 .navbar {
-
-    overflow: hidden;
-    color: white;
-    background-color: #333;
-    font-family: Arial, Helvetica, sans-serif;
-    border-bottom: 1px solid green; 
+  /* overflow: hidden; */
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 75%;
 }
 
 .navbar a {
