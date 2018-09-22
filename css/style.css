@@ -16,7 +16,10 @@ h1 {
     color: #2795f9
 }
 a {
-    text-decoration:none
+    /* remove links underline */
+    text-decoration:none;
+    /* remove links color */
+    color: inherit;  
 }
 /* .header {
      position: fixed; 
@@ -29,7 +32,7 @@ a {
 .main {
     background-color: #DCDCDC;
     padding-bottom: 20px;
-    padding-top: 20px;
+    padding-top: 50px;
 
 }
 /* end of main section */
@@ -108,5 +111,9 @@ a {
     height: 90px;
     padding: 3em;
     background-color: #333;
+}
+
+footer p {
+    color: white;
 }
 /* end of footer */
